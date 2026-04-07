@@ -1,0 +1,9 @@
+name: OpenEnv-TaskSuite
+version: 0.1.0
+tasks:
+  - name: email_triage
+    difficulty: easy
+  - name: data_cleaning
+    difficulty: medium
+  - name: meeting_scheduling
+    difficulty: hard

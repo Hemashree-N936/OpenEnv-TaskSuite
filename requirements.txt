@@ -1,0 +1,4 @@
+# Requirements for OpenEnv TaskSuite
+pydantic
+openai
+pandas
